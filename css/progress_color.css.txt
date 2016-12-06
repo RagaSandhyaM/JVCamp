@@ -1,0 +1,274 @@
+/*
+|----------------------------------------------------------------------------
+| RED COLOR THEME
+|----------------------------------------------------------------------------
+*/
+/*
+	BASE COLOR CODE: #F54B00
+	BASE COLOR END (FOR GRADIENT): #eb462a
+	HOVER COLOR: #e9452a
+*/
+/******************** GLOBAL STYLES ********************/
+a {
+  color: #F54B00;
+}
+.text-color {
+  color: #F54B00;
+}
+.icon {
+  fill: #F54B00;
+}
+.shape-bg {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.gradient-bg {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.icon-border-1 {
+  border: 1px solid #F54B00;
+}
+.icon-border-2 {
+  border: 2px solid #F54B00;
+}
+.btn-base {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.btn-base:after {
+  background: #e9452a;
+}
+.btn-trans {
+  color: #F54B00;
+  border: 2px solid #F54B00;
+}
+.btn-trans .icon {
+  fill: #F54B00;
+}
+.btn-trans:hover,
+.btn-trans:focus,
+.btn-trans:active {
+  background-color: #e9452a;
+  border-color: #e9452a;
+}
+.btn-white {
+  color: #F54B00;
+}
+.tab-btn li.active a {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.filter-buttons .active {
+  color: #F54B00;
+}
+/******************** NAVBAR STYLE ********************/
+.navbar-nemo .navbar-nav > li > a:hover,
+.navbar-nemo .navbar-nav > li > a:focus {
+  color: #F54B00;
+  background-color: transparent;
+}
+.navbar-nemo .navbar-nav > .active > a {
+  color: #F54B00;
+}
+.navbar-toggle {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+/******************** SECTION STYLES ********************/
+.gradient-overlay:before {
+  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23), rgba(252, 95, 69, 0.23));
+}
+.transparent-overlay:before {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.9), rgba(252, 95, 69, 0.9));
+}
+.polygon-bg {
+  background-image: url(http://campbellhc.github.io/engagehireclix/images/polygon-bg/red.jpg);
+}
+.video-bg:before {
+  background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.75), rgba(252, 95, 69, 0.75));
+}
+.section-heading .lines {
+  border-top: 2px solid #F54B00;
+}
+.section-heading .lines:before,
+.section-heading .lines:after {
+  border-top: 2px solid #F54B00;
+}
+.heading-pre-suf:before,
+.heading-pre-suf:after {
+  background-color: #F54B00;
+}
+/* SWIPER BULLETS */
+.swiper-pagination-bullet-active {
+  background-color: #F54B00;
+}
+.event-info {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.event-info.white-bg {
+  color: #F54B00;
+}
+.event-info.white-bg .heading-text {
+  color: #F54B00;
+}
+/******************** FORMS ********************/
+.form-control:focus {
+  border-color: #F54B00;
+}
+.form-standard:focus {
+  border-color: #F54B00;
+}
+.form-underlined .form-control:focus {
+  border-color: #F54B00;
+}
+.select-radio input[type="radio"]:checked + label {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.select-outer:after {
+  border-color: #F54B00 transparent transparent;
+}
+.select-outer .form-inline-input {
+  color: #F54B00;
+}
+.form-widget .btn-trans {
+  background-color: rgba(252, 95, 69, 0.05);
+}
+.select-item input[type="checkbox"]:before {
+  border: 2px solid #F54B00;
+}
+.select-item input[type="checkbox"]:checked:after {
+  background-color: #F54B00;
+}
+.select-item .form-control {
+  color: #F54B00;
+}
+.nav-btn-tabs .active .btn {
+  border-color: #F54B00;
+  color: #F54B00;
+}
+.order-list li:before {
+  color: #F54B00;
+}
+.select-dropdown .form-standard {
+  color: #F54B00;
+}
+.radio-standard input[type="radio"]:checked + label:after {
+  background-color: #F54B00;
+}
+.radio-standard label:before {
+  border: 1px solid #F54B00;
+}
+.order-select-menu .form-control {
+  color: #F54B00;
+}
+.total-payment:before {
+  color: #F54B00;
+}
+.total-payment span {
+  color: #F54B00;
+}
+/******************** DESCRIPTIONS ********************/
+.desc-title .title-element {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.9), rgba(235, 70, 42, 0.9));
+}
+.objective-time {
+  color: #F54B00;
+}
+/******************** FEATURES SECTIONS ********************/
+.feature-side-content.active .title-text,
+.feature-side-content:hover .title-text {
+  color: #F54B00;
+}
+.feature-side-content.active .icon-shape,
+.feature-side-content:hover .icon-shape {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+/******************** GALLERY STYLE ********************/
+.gallery-img-pop .hover-effect {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.7), rgba(235, 70, 42, 0.7));
+}
+/******************** OTHERS ********************/
+.speakers-1 .speaker-intro figcaption {
+  border-top: 3px solid #F54B00;
+}
+.img-hover-content:hover .img-intro {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0), rgba(235, 70, 42, 0));
+}
+.img-hover-content .overlay-content {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.9), rgba(235, 70, 42, 0.9));
+}
+.img-hover-content .img-intro {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.2), rgba(235, 70, 42, 0.2));
+}
+.img-hover-content .btn-trans:hover {
+  color: #F54B00;
+}
+.restaurant-menu .title-text {
+  color: #F54B00;
+}
+.panel-faqs .title-text a {
+  color: #F54B00;
+}
+.panel-schedule .schedule-time:after {
+  border-left: 2px solid #F54B00;
+}
+.post-preview .post-type {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.post-preview .category {
+  color: #F54B00;
+}
+.speakers-1 .speaker-intro .icon-collapsed {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+/******************** PRICING TABLE ********************/
+.pricing-table-1 .price {
+  color: #F54B00;
+}
+.pricing-table-1 .featured .pricing-element {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.pricing-table-2 .pricing-element .price {
+  border: 2px solid #F54B00;
+  color: #F54B00;
+}
+.pricing-table-2 .pricing-element.featured {
+  border-color: #F54B00;
+}
+.pricing-table-2 .pricing-element.featured .package {
+  color: #F54B00;
+}
+.pricing-table-2 .pricing-element.featured .price {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.pricing-table-2 .pricing-element.featured .btn-trans {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+.pricing-table-2 .pricing-element.featured .btn-trans:hover {
+  background-image: linear-gradient(to bottom right, #eb462a, #eb462a);
+}
+.pricing-element-3 .price {
+  color: #F54B00;
+}
+.pricing-element-3.featured {
+  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+}
+/******************** SCREENSHOTS ********************/
+.screenshots-2 .screen-title {
+  color: #F54B00;
+}
+.screenshots-2 .screen-no {
+  border: 1px solid #F54B00;
+}
+/******************** TESTIMONIAL ********************/
+.testimonials .client-name {
+  color: #F54B00;
+}
+.testimonials-4 .thumb {
+  background-color: #F54B00;
+}
+.blockquote-gradient-bg {
+  background-image: linear-gradient(to bottom right, rgba(252, 95, 69, 0.9), rgba(235, 70, 42, 0.9));
+}
+/******************** FOOTER STYLES ********************/
+.footers .socialize .icon:hover {
+  fill: #F54B00;
+}
+
+/*# sourceMappingURL=red.css.map */
