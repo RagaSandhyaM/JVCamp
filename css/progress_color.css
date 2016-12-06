@@ -31,7 +31,7 @@ a {
   border: 2px solid #F54B00;
 }
 .btn-base {
-  background-image: linear-gradient(to bottom right, #F54B00, #eb462a);
+  background-image: linear-gradient(to bottom right, #55d400, #55d400);
 }
 .btn-base:after {
   background: #e9452a;
